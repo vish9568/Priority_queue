@@ -3,7 +3,7 @@ Implementation of a priority queue using a max heap. To use the priority queue:<
 
 1. Check "Example.cpp" file <br>
 Note: <br>
-you need to define a function comparator that accepts two objects of type myDataType and returns true if 1st compares less than 2nd object and false otherwise.<br>
+you need to define a function comparator that accepts two objects of type myDataType and returns true if 1st compares less than 2nd object and false otherwise.
 the highest priority object(does not compare less than any other object in the heap) is the topmost item in the heap.<br>
 
 The following functionalities are provided:<br>
